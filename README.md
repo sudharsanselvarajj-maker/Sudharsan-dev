@@ -96,7 +96,7 @@ My goal is to become a skilled **Full Stack Developer** and build scalable softw
 https://www.linkedin.com/in/sudharsan-s-2b7571381
 
 💻 GitHub
-https://github.com/sudharsanselvarajj-maker
+https://github.com/sudharsan-s-dev
 
 ---
 
