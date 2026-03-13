@@ -1,4 +1,4 @@
-#                                                              👨‍💻 SUDHARSAN S
+<h1 align="center">SUDHARSAN S</h1>
 
 ###                          Junior Full Stack Developer | AI & Data Science Student | Junior Prompt Engineer
 ---
