@@ -62,10 +62,13 @@ Currently, I am pursuing **B.Sc. Computer Science (Artificial Intelligence & Dat
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
 ### Other Skills
 
 Prompt Engineering
+
 Workflow Automation
+
 Frontend–Backend Integration
 
 ---
