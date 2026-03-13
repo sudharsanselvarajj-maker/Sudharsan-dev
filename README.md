@@ -4,8 +4,7 @@
 
 📍 Erode, Tamil Nadu, India
 📧 [sudharsanselvarajj@gmail.com](mailto:sudharsanselvarajj@gmail.com)
-📞 +91 8610547273
-🔗 LinkedIn: https://www.linkedin.com/in/sudharsan-s-2b7571381
+📞 +91 8610547273🔗 LinkedIn: https://www.linkedin.com/in/sudharsan-s-2b7571381
 
 ---
 
@@ -84,33 +83,6 @@ Frontend–Backend Integration
 
 ---
 
-## 📌 Featured Projects
-
-### 🏪 FitGear – Sports Equipment E-Commerce Website
-
-* Developed a responsive **sports equipment e-commerce platform**
-* Implemented **product catalog, authentication, shopping cart, and order management**
-* Designed a **mobile-friendly responsive interface**
-
----
-
-### 🚌 Smart College Bus Attendance & Notification System
-
-* Built a **Flask-based system** for automated student bus attendance using **QR/Barcode scanning**
-* Integrated **MySQL database** for secure student data and attendance management
-* Implemented **SMTP-based email notifications** for parents
-* Deployed the application on **Render Cloud** for remote access and scalability
-
----
-
-### 🌐 Personal Portfolio Website
-
-* Developed a **responsive portfolio website** to showcase projects and technical skills
-* Implemented **mobile-first responsive design**
-* Structured project presentation for better recruiter visibility
-
----
-
 ## 🎓 Education
 
 **B.Sc. Computer Science (Artificial Intelligence & Data Science)**
@@ -119,15 +91,6 @@ VET Institute of Arts and Science College, Erode
 
 **Higher Secondary Education (12th Standard)**
 Completed in 2024
-
----
-
-## 📜 Certifications
-
-* Basic Level Prompt Engineering — Infosys Springboard
-* Web & Application Development Workshop — Rubrich Technologies
-* Basic Level Python Developer — MSME Technology Development Centre
-* IBM Web Development Certification
 
 ---
 
