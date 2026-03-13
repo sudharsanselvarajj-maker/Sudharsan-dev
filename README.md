@@ -1,11 +1,6 @@
-# 👨‍💻 Sudharsan S
+#                                                              👨‍💻 SUDHARSAN S
 
-### 🚀 Full Stack Developer | AI & Data Science Student
-
-📍 Erode, Tamil Nadu, India
-📧 [sudharsanselvarajj@gmail.com](mailto:sudharsanselvarajj@gmail.com)
-📞 +91 8610547273🔗 LinkedIn: https://www.linkedin.com/in/sudharsan-s-2b7571381
-
+###                          Junior Full Stack Developer | AI & Data Science Student | Junior Prompt Engineer
 ---
 
 ## 👋 About Me
