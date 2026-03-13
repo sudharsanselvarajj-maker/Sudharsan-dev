@@ -36,39 +36,32 @@ Currently, I am pursuing **B.Sc. Computer Science (Artificial Intelligence & Dat
 
 ---
 
-## 🛠️ Skills
+## 💻 TECH STACK
 
 ### Programming Languages
-
-Python
-JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=python,js" />
+</p>
 
 ### Web Technologies
-
-HTML5
-CSS3
-Bootstrap
-Responsive Web Design
-CSS Flexbox
-CSS Grid
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
 
 ### Frameworks & Backend
-
-Flask
-Node.js
-REST API Development
+<p>
+<img src="https://skillicons.dev/icons?i=flask,nodejs" />
+</p>
 
 ### Databases
-
-MySQL
-SQL
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Tools & Platforms
-
-Git
-GitHub
-Render Cloud
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 ### Other Skills
 
 Prompt Engineering
